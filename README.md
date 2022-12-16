@@ -9,4 +9,4 @@
 ![I love Pan Cakes](https://images.pexels.com/photos/349728/pexels-photo-349728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
  <img src="https://images.pexels.com/photos/349728/pexels-photo-349728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="200" title="Pan Cake">
-![download](https://user-images.githubusercontent.com/118299210/208112793-d1af34be-7fa0-46f5-ae68-71f968e442ad.jpg)
+![ITI_logo](https://user-images.githubusercontent.com/118299210/208113423-db42039b-4c18-4653-82c2-ace371391e32.png)
