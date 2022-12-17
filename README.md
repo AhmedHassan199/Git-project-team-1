@@ -1,10 +1,10 @@
 # Git-project-team-1
 
-## Heading 2
+## Okay
 
-###### Heading 4
+###### Team1
 
-######### Heading 6
+###### 5 Persons
 
 ![I love Pan Cakes](https://images.pexels.com/photos/349728/pexels-photo-349728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
