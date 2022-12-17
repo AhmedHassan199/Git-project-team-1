@@ -10,4 +10,4 @@
 
  <img src="https://images.pexels.com/photos/349728/pexels-photo-349728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="200" title="Pan Cake">
 <img src="https://user-images.githubusercontent.com/118299210/208113423-db42039b-4c18-4653-82c2-ace371391e32.png" width="300">
-![horsoo](https://user-images.githubusercontent.com/118406978/208234747-bb502a7b-e50a-437d-b7a9-635a1c642a41.jpg)
+![running horse](https://user-images.githubusercontent.com/118406978/208234869-21a0c847-cc01-4c6f-931f-a9e37a52cc50.jpg)
